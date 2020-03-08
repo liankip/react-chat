@@ -1,1 +1,1 @@
-# chat_react
+# react-chat
